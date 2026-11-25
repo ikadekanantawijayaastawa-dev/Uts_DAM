@@ -1,0 +1,233 @@
+{
+  "head" : {
+    "vars" : [ "item", "itemLabel", "coord", "article" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q75331465"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(115.266555555 -8.592)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "id",
+        "type" : "literal",
+        "value" : "Bali Zoo"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16744229"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(115.251 -8.6)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "id",
+        "type" : "literal",
+        "value" : "Taman burung bali"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://id.wikipedia.org/wiki/Taman_Burung_Bali"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13096785"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(115.206797 -8.481702)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "id",
+        "type" : "literal",
+        "value" : "Sangeh"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://id.wikipedia.org/wiki/Sangeh"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4850846"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(115.3441 -8.581)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "id",
+        "type" : "literal",
+        "value" : "Taman Safari Bali (Bali Safari)"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://id.wikipedia.org/wiki/Bali_Safari_%26_Marine_Park"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99516935"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(115.60915 -8.44371)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taman Sekuta"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q136101419"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(115.279136556 -8.43059058)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tegallalang Rice Terrace"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q124394780"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(115.12498 -8.78988)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balangan Viewpoint"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q125503243"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(115.630828 -8.391425)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lempuyang Gate of Heaven"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2736994"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(115.26192 -8.62228)"
+      },
+      "itemLabel" : {
+        "type" : "literal",
+        "value" : "Q2736994"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30672224"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(115.131563 -8.480232)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bali Butterfly Park"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7973895"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(115.16952 -8.72848)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "id",
+        "type" : "literal",
+        "value" : "Waterbom Bali"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://id.wikipedia.org/wiki/Waterbom_Park"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q130233205"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(115.15709347 -8.237036765)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "id",
+        "type" : "literal",
+        "value" : "Menara Turyapada"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60768800"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(115.2866632 -8.572696)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kemenuh Butterfly Park"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q125509363"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(115.10771 -8.24033)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wanagiri Hidden Hill"
+      }
+    } ]
+  }
+}

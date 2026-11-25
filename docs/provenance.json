@@ -1,0 +1,43 @@
+{
+  "project": "Sebaran Daya Tarik Wisata di Provinsi Bali",
+  "accessed_at": "2026-11-25T03:18:32.852880+00:00",
+  "user_agent": "UTS-DAM-Wisata-Bali/1.0 (ikadekanantawijayaastawa@gmail.com)",
+  "sources": [
+    {
+      "name": "data.go.id - Sebaran Daya Tarik Wisata di Bali",
+      "url": "https://data.go.id/dataset/dataset/sebaran-daya-tarik-wisata-di-bali",
+      "resource_url": "https://github.com/id-data/bali-tourism/raw/main/sebaran_wisata.csv",
+      "method": "Download dataset melalui resource CKAN package_show",
+      "license": "Status terbuka; lisensi spesifik tidak ditampilkan pada halaman yang diperiksa",
+      "file": "sebaran_dayatarik_wisata_bali.csv",
+      "size_bytes": 5775,
+      "md5": "23f45062bc3ad598d67e70a47dbb3ac0"
+    },
+    {
+      "name": "Wikidata Query Service",
+      "url": "https://query.wikidata.org/sparql",
+      "method": "SPARQL GET; JSON response",
+      "license": "Wikidata structured data: CC0",
+      "file": "wikidata_wisata_bali.json",
+      "size_bytes": 6412,
+      "md5": "c175785a599a0472cdcfbf62a3504c6f"
+    },
+    {
+      "name": "Wikipedia - Kategori Tempat wisata di Bali",
+      "url": "https://id.wikipedia.org/wiki/Kategori:Tempat_wisata_di_Bali",
+      "robots_url": "https://id.wikipedia.org/robots.txt",
+      "robots_allowed": true,
+      "method": "Static HTML scraping with BeautifulSoup after robots check",
+      "license": "CC BY-SA; retain attribution and share-alike requirements",
+      "file": "wikipedia_kategori_tempat_wisata_bali.html",
+      "size_bytes": 97984,
+      "md5": "e5812b07019a436205a0bdb576f6d033"
+    }
+  ],
+  "outputs": [
+    "data/processed/wikidata_wisata_bali.csv",
+    "data/processed/wikipedia_tempat_wisata_bali.csv",
+    "data/processed/hasil_integrasi_dataset_wikipedia_bali.csv",
+    "docs/data_ethics_checklist.csv"
+  ]
+}

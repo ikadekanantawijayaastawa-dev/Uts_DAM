@@ -1,0 +1,10 @@
+﻿Butir,Status,Bukti / Penjelasan
+1. Legalitas dan izin sumber,Perlu verifikasi,Dataset data.go.id berstatus terbuka; lisensi spesifik tidak tampak pada halaman yang diperiksa. Wikidata menggunakan CC0 dan Wikipedia menggunakan CC BY-SA.
+2. Tujuan penggunaan,Lulus,Penggunaan ditujukan murni untuk pemenuhan tugas akademik mata kuliah Data Acquisition & Management.
+3. Minimalisasi data,Lulus,"Hanya mengumpulkan atribut publik yang relevan seperti nama objek wisata, koordinat geografis, dan kategori."
+4. Data pribadi (PII),Tidak ditemukan,"Seluruh dataset mengacu pada entitas lokasi wisata publik (Point of Interest), tidak ada data informasi pribadi individu."
+5. Quasi-identifier,Risiko rendah,"Nama tempat dan koordinat adalah data publik terbuka, tidak dapat digunakan untuk merekonstruksi identitas personal."
+6. Persetujuan dan ekspektasi,Tidak relevan untuk POI publik,Tidak mengumpulkan informasi pelacakan atau data perilaku pengguna individu.
+7. Keamanan,Lulus,"Pengambilan data tidak memerlukan API key rahasia. Request menggunakan proteksi timeout, retry backoff, dan pembatasan delay."
+8. Bias dan keterwakilan,Perlu diperhatikan,Data bersumber dari crowdsourcing (Wikipedia/Wikidata) memiliki potensi bias keterwakilan spasial dibanding data riil lapangan.
+9. Atribusi dan retensi,Lulus bersyarat,"Menyimpan pencatatan metadata lengkap mencakup URL sumber, tanggal akses, ukuran berkas, lisensi, dan hash MD5."
