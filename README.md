@@ -4,8 +4,8 @@
 
 | Keterangan | Informasi |
 |---|---|
-| Nama | ISI NAMA MAHASISWA |
-| NIM | ISI NIM |
+| Nama | I Kadek Ananta Wijaya Astawa|
+| NIM | 2501010124 |
 | Program Studi | Informatika |
 | Institusi | Institut Bisnis dan Teknologi Indonesia (INSTIKI) |
 | Mata Kuliah | Data Acquisition & Management |
